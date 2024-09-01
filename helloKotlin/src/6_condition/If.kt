@@ -1,4 +1,4 @@
-package `6_ condition`
+package `6_condition`
 
 fun main() {
 
